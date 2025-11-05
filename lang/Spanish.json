@@ -1,5 +1,4 @@
 {
-  "AutoEndCallsMsg": "[TC] Has ~r~deshabilitado~w~ '~o~AutoEndCall~w~', recuerda presionar '~y~{EndCall}~w~' para finalizar la llamada actual",
   "main_endkey": "Presiona la tecla ~y~{EndCall}~w~ para finalizar la llamada actual.",
   "main_interkey": "Presiona ~y~{Dialog}~w~ para hablar con el sospechoso",
   "main_dispatch": "~y~Despacho",
