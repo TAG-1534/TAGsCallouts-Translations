@@ -16,7 +16,6 @@ When creating a new language, you must first create a folder titled with your la
 ⚠️ Please keep the KEY the same 
 
 E.g. "main_endkey": "TRANSLATE HERE"
-KEY = "main_endkey": TRANSLATION = "TRANSLATION HERE"
 
 When finsihed with your contributions, create a pull request and it will be taken into consideration.
 
