@@ -13,7 +13,7 @@ If you need any help, please contact a member of staff in the Discord Server - h
 
 When creating a new language, you must first create a folder titled with your language code. http://www.lingoes.net/en/translator/langcode.htm
 
-⚠️ Please keep the KEY the same, 
+⚠️ Please keep the KEY the same 
 E.g. "main_endkey": "TRANSLATE HERE"
 
          ^KEY           ^TRANSLATION
