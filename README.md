@@ -16,6 +16,7 @@ When creating a new language, you must first create a folder titled with your la
 ⚠️ Please keep the KEY the same 
 
 E.g. "main_endkey": "TRANSLATE HERE"
+also keeping the {endcall}, {playerName} and {dialog} keys the same as they get auto replaced within scripts
 
 When finsihed with your contributions, CREATE A PULL REQUEST and it will be taken into consideration.
 
